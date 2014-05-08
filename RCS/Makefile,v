@@ -1,0 +1,55 @@
+head	1.1;
+access;
+symbols;
+locks
+	uemura:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2008.08.02.00.44.18;	author mitsuhide;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for numplc.rb
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@# $Id$
+
+SCRIPT_NAME	= numplc.rb
+S = $(shell rcsdiff $(SCRIPT_NAME) > /dev/null 2>&1)
+
+#SCRIPT_REV = `grep \$Id: $(SCRIPT_NAME) | ruby -e 'split(/\s/)'`
+Q_DIR	= q
+A_DIR	= a
+
+Q_FILES:= $(wildcard $(Q_DIR)/*.txt)
+A_FILES = $(subst $(Q_DIR), $(A_DIR), $(Q_FILES) )
+
+
+test:	RCS/$(SCRIPT_NAME),v
+
+RCS/$(SCRIPT_NAME),v:	$(SCRIPT_NAME)
+	./$(SCRIPT_NAME) $(subst $(A_DIR), $(Q_DIR), $@@) > $@@_mod
+
+result:	$(A_FILES)
+
+$(A_FILES): $(SCRIPT_NAME)
+	./$(SCRIPT_NAME) $(subst $(A_DIR), $(Q_DIR), $@@) > $@@
+
+echo:
+	@@echo $S
+	@@echo $(SCRIPT_REV)
+	@@echo $(SCRIPT_NAME)
+	@@echo $(Q_FILES)
+	@@echo $(A_FILES)
+#@@echo $(patsubst $(Q_DIR),$(A_DIR),$(Q_FILES) )
+@

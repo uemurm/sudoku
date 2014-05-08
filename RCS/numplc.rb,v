@@ -1,0 +1,2560 @@
+head	1.67;
+access;
+symbols;
+locks
+	uemura:1.67;
+comment	@# @;
+
+
+1.67
+date	2008.12.05.17.14.51;	author mitsuhide;	state Exp;
+branches;
+next	1.66;
+
+1.66
+date	2008.12.05.16.57.08;	author mitsuhide;	state Exp;
+branches;
+next	1.65;
+
+1.65
+date	2008.11.20.09.52.23;	author mitsuhide;	state Exp;
+branches;
+next	1.64;
+
+1.64
+date	2008.08.27.23.00.21;	author mitsuhide;	state Exp;
+branches;
+next	1.63;
+
+1.63
+date	2008.08.27.22.50.31;	author mitsuhide;	state Exp;
+branches;
+next	1.62;
+
+1.62
+date	2008.08.27.22.47.30;	author mitsuhide;	state Exp;
+branches;
+next	1.61;
+
+1.61
+date	2008.08.16.15.15.52;	author mitsuhide;	state Exp;
+branches;
+next	1.60;
+
+1.60
+date	2008.08.16.14.51.37;	author mitsuhide;	state Exp;
+branches;
+next	1.59;
+
+1.59
+date	2008.08.16.14.06.01;	author mitsuhide;	state Exp;
+branches;
+next	1.58;
+
+1.58
+date	2008.08.14.17.25.39;	author mitsuhide;	state Exp;
+branches;
+next	1.57;
+
+1.57
+date	2008.08.14.17.02.28;	author mitsuhide;	state Exp;
+branches;
+next	1.56;
+
+1.56
+date	2008.08.14.17.00.17;	author mitsuhide;	state Exp;
+branches;
+next	1.55;
+
+1.55
+date	2008.08.14.16.45.20;	author mitsuhide;	state Exp;
+branches;
+next	1.54;
+
+1.54
+date	2008.08.14.09.58.36;	author mitsuhide;	state Exp;
+branches;
+next	1.53;
+
+1.53
+date	2008.08.14.09.56.20;	author mitsuhide;	state Exp;
+branches;
+next	1.52;
+
+1.52
+date	2008.08.14.09.42.02;	author mitsuhide;	state Exp;
+branches;
+next	1.51;
+
+1.51
+date	2008.08.02.05.57.13;	author mitsuhide;	state Exp;
+branches;
+next	1.50;
+
+1.50
+date	2008.08.02.05.51.42;	author mitsuhide;	state Exp;
+branches;
+next	1.49;
+
+1.49
+date	2008.08.02.05.05.31;	author mitsuhide;	state Exp;
+branches;
+next	1.48;
+
+1.48
+date	2008.08.02.04.16.21;	author mitsuhide;	state Exp;
+branches;
+next	1.47;
+
+1.47
+date	2008.08.02.02.57.36;	author mitsuhide;	state Exp;
+branches;
+next	1.46;
+
+1.46
+date	2008.08.02.02.06.53;	author mitsuhide;	state Exp;
+branches;
+next	1.45;
+
+1.45
+date	2008.07.22.15.41.24;	author mitsuhide;	state Exp;
+branches;
+next	1.44;
+
+1.44
+date	2008.07.21.13.39.22;	author mitsuhide;	state Exp;
+branches;
+next	1.43;
+
+1.43
+date	2008.07.21.05.00.13;	author mitsuhide;	state Exp;
+branches;
+next	1.42;
+
+1.42
+date	2008.07.21.02.22.49;	author mitsuhide;	state Exp;
+branches;
+next	1.41;
+
+1.41
+date	2008.07.17.06.34.24;	author uemura;	state Exp;
+branches;
+next	1.40;
+
+1.40
+date	2008.07.17.06.29.35;	author uemura;	state Exp;
+branches;
+next	1.39;
+
+1.39
+date	2008.07.17.06.23.41;	author uemura;	state Exp;
+branches;
+next	1.38;
+
+1.38
+date	2008.07.17.06.14.22;	author uemura;	state Exp;
+branches;
+next	1.37;
+
+1.37
+date	2008.07.17.05.22.42;	author uemura;	state Exp;
+branches;
+next	1.36;
+
+1.36
+date	2008.07.14.01.16.00;	author uemura;	state Exp;
+branches;
+next	1.35;
+
+1.35
+date	2008.07.08.01.44.15;	author uemura;	state Exp;
+branches;
+next	1.34;
+
+1.34
+date	2008.06.03.04.42.46;	author uemura;	state Exp;
+branches;
+next	1.33;
+
+1.33
+date	2008.06.03.03.14.12;	author uemura;	state Exp;
+branches;
+next	1.32;
+
+1.32
+date	2008.06.03.03.00.37;	author uemura;	state Exp;
+branches;
+next	1.31;
+
+1.31
+date	2008.06.03.02.58.30;	author uemura;	state Exp;
+branches;
+next	1.30;
+
+1.30
+date	2008.06.02.07.33.07;	author uemura;	state Exp;
+branches;
+next	1.29;
+
+1.29
+date	2008.06.02.02.23.24;	author uemura;	state Exp;
+branches;
+next	1.28;
+
+1.28
+date	2008.06.02.02.12.13;	author uemura;	state Exp;
+branches;
+next	1.27;
+
+1.27
+date	2008.06.02.01.56.34;	author uemura;	state Exp;
+branches;
+next	1.26;
+
+1.26
+date	2008.06.02.01.54.10;	author uemura;	state Exp;
+branches;
+next	1.25;
+
+1.25
+date	2008.06.02.01.44.54;	author uemura;	state Exp;
+branches;
+next	1.24;
+
+1.24
+date	2008.05.30.07.50.29;	author uemura;	state Exp;
+branches;
+next	1.23;
+
+1.23
+date	2008.05.30.07.23.29;	author uemura;	state Exp;
+branches;
+next	1.22;
+
+1.22
+date	2008.05.30.07.17.28;	author uemura;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2008.05.30.06.31.12;	author uemura;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2008.05.30.03.21.18;	author uemura;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2008.05.30.02.34.00;	author uemura;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2008.05.30.01.11.03;	author uemura;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2008.05.29.06.12.52;	author uemura;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2008.05.26.08.08.06;	author uemura;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2008.05.26.06.30.25;	author uemura;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2008.05.26.03.30.08;	author uemura;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2008.05.23.07.50.46;	author uemura;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2008.05.12.08.04.37;	author uemura;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2008.05.12.06.46.03;	author uemura;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2008.05.09.05.50.09;	author uemura;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2008.05.09.05.10.53;	author uemura;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2008.05.08.07.42.01;	author uemura;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2008.05.08.07.39.39;	author uemura;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2008.04.28.06.21.45;	author uemura;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2008.04.28.06.20.58;	author uemura;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2008.04.28.05.25.33;	author uemura;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2008.04.22.07.26.43;	author uemura;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2008.04.22.07.14.39;	author uemura;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.04.22.06.39.14;	author uemura;	state Exp;
+branches;
+next	;
+
+
+desc
+@Could solve qx.txt but not solve others.
+@
+
+
+1.67
+log
+@Skip blank lines.
+@
+text
+@#! /bin/ruby -w
+
+%q$Id: numplc.rb,v 1.66 2008/12/05 16:57:08 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+ProgName = $1
+Revision = $2
+
+require 'matrix'
+require "curses"
+require 'optparse'
+ProgramConfig = Hash.new
+opts = OptionParser.new
+opts.on("-d", "--debug"){|v| ProgramConfig[:debug] = true}
+opts.on("-b", "--bold"){|v| ProgramConfig[:bold] = true}
+opts.parse!(ARGV)
+
+file_name = ARGV.shift
+if ProgramConfig[:debug]
+  `rcsdiff numplc.rb > /dev/null 2>&1`
+  status = $?
+  if status == 0
+    Mod = ""
+  else
+    Mod = "_mod"
+  end
+  ans_file = "a/" +
+      file_name.sub(/^q\//, '').sub(/\.txt/, "_" + Revision + Mod + ".txt")
+  $stdout = File::open(ans_file, "w+")
+end
+
+class Cell
+  %w[cddts block row col fixed].each{|attr_name|
+    attr_accessor attr_name
+  }
+  attr_reader   :init_fixed
+  attr_accessor :i, :j if ProgramConfig[:debug]
+
+  def initialize(cddts)
+    @@cddts = cddts
+    @@block = nil
+
+    if(cddts.length == 1)
+      @@fixed = true
+      @@init_fixed = true
+    else
+      @@fixed = false
+      @@init_fixed = false
+    end
+    @@row = nil
+    @@col = nil
+    if ProgramConfig[:debug]
+      @@i = @@j = nil
+    end
+  end
+
+  # Delete fixed values from candidates of unfixed cells row-wise,
+  # column-wise and block-wise.
+  def rm_fixed_values_from_cddts
+    axes = [@@row, @@col, @@block.to_a.flatten]
+    axes.each{|axis|
+      axis.each{|elm|
+        next unless elm.fixed
+        @@cddts.delete(elm.cddts.first)
+      }
+    }
+
+#   if ProgramConfig[:debug]
+#     if @@fixed == false and @@cddts.length == 1
+#       print "DEBUG: [#{@@i}, #{@@j}] = #{@@cddts.first}\n"
+#     end
+#   end
+    @@fixed = true if(@@cddts.length == 1)
+  end
+
+  # Gather the candidates of the row except the cell itself
+  # and fix the value unless the candidates include that value.
+  # Do the same thing column-wise and block-wise.
+  def fix_if_cddt_is_uniq
+    axes = [@@row, @@col, @@block]
+    axes.each{|axis|
+      @@cddts.each{|cddt|
+        other_cell_cddts = []
+        axis.map{|elm|
+          next if elm == self
+          other_cell_cddts.push(elm.cddts)
+        }
+        unless other_cell_cddts.flatten.include?(cddt)
+          @@cddts = [cddt]
+#         if ProgramConfig[:debug]
+#           print "DEBUG: [#{i}, #{j}] = #{cddts.first}\n" unless @@fixed
+#         end
+          @@fixed = true
+        end
+      }
+    }
+  end
+  private :rm_fixed_values_from_cddts, :fix_if_cddt_is_uniq
+
+  def narrow_cddt
+    rm_fixed_values_from_cddts
+    fix_if_cddt_is_uniq
+  end
+end
+
+# Wanted to define a sub-class NumpclMtrx overriding initialize with super.
+# But encountered an error saying "wrong number of arguments(3 for 0)
+# so I gave up.
+class Matrix
+  attr_reader   :solved
+  attr_accessor :blks
+
+  def init
+    @@blks = Array.new
+  end
+  def each_row
+    for i in 0...(self.column_size)
+      yield self.row(i)
+    end
+  end
+  def n_fixed
+    num_fixed = 0
+    self.map{|elm| num_fixed += 1 if elm.fixed}
+    num_fixed
+  end
+  def solved?
+    self.map{|elm|
+      return false unless elm.fixed
+    }
+    return consistent?
+  end
+  def consistent?
+    self.map{|elm|
+      return false if elm.cddts.length == 0
+    }
+    # Check the consistency row-wise and column-wise.
+    [self, self.transpose].each{|numplc|
+      numplc.each_row{|row|
+        row_cddts = []
+        row.to_a.each{|elm|
+          row_cddts.push(elm.cddts)
+        }
+        return false unless row_cddts.uniq.length == 9
+      }
+    }
+    # Check the consistency block-wise.
+    self.blks.each{|blk|
+      blk_cddts = []
+      blk.to_a.flatten.each{|elm|
+        blk_cddts.push(elm.cddts)
+      }
+      return false unless blk_cddts.uniq.length == 9
+    }
+    return true
+  end
+end
+
+class Block < Matrix 
+  attr_accessor :ref_rows, :ref_cols
+
+  def initialize(*args)
+    super
+    @@ref_rows = nil
+    @@ref_cols = nil
+  end
+  def []=(i, j, x)
+    @@rows[i][j] = x
+  end
+
+  # Gather the candidates of the intersection of a block and a row.
+  # Check if the candidate is included in the 6 cells in the rest of
+  # the block and remove it from the candidates of the row if it is NOT.
+  # Do the same thing column-wise.
+  def rm_cddts_outof_blk
+    axes = [@@ref_rows, @@ref_cols]
+    axes.each{|axis|
+      axis.each{|ref|
+        intrsct_cddts = []
+        (self.to_a.flatten & ref).each{|elm|
+          intrsct_cddts.push(elm.cddts).flatten!.uniq!
+        }
+        six_cells_cddts = []
+        (self.to_a.flatten - ref).each{|elm|
+          six_cells_cddts.push(elm.cddts).flatten!.uniq!
+        }
+        intrsct_cddts.each{|cddt|
+          unless six_cells_cddts.include?(cddt)
+            (ref - self.to_a.flatten).each{|elm|
+              elm.cddts.delete(cddt)
+#             if ProgramConfig[:debug]
+#               if elm.fixed == false and elm.cddts.length == 1
+#                 print "DEBUG: [#{elm.i}, #{elm.j}] = #{elm.cddts.first}\n"
+#               end
+#             end
+              elm.fixed = true if(elm.cddts.length == 1)
+            }
+          end
+        }
+      }
+    }
+  end
+end
+
+def parse(file_name)
+  ary_of_ary = Array.new
+
+  File.open(file_name){|q|
+    while line = q.gets
+      ary = Array.new
+      line.sub!(/\s*#.*$/, '')          # Remove comments.
+      next if line =~ /^\s*$/           # Skip blank lines.
+      line.split(/\s+/).each{|elm|
+        if elm =~ /\d+/
+          ary.push(Cell.new([elm.to_i]))
+        else
+          ary.push(Cell.new([1, 2, 3, 4, 5, 6, 7, 8, 9]))
+        end
+      }
+      ary_of_ary.push(ary)
+    end
+  }
+  ary_of_ary
+end
+
+# Instanciate a matrix
+mtrx_ary = parse(file_name)
+mtrx = Matrix.rows(mtrx_ary)
+mtrx.init
+
+# Set the position in the matrix when tracing.
+if ProgramConfig[:debug]
+  for row in 0...(mtrx.column_size)
+    for col in 0...(mtrx.row_size)
+      mtrx[row, col].i = row
+      mtrx[row, col].j = col
+    end
+  end
+end
+
+# Associate cells with a row and a column
+for row in 0...(mtrx.column_size)
+  for col in 0...(mtrx.row_size)
+    mtrx[row, col].row = mtrx.row(row).to_a
+    mtrx[row, col].col = mtrx.column(col).to_a
+  end
+end
+
+# Generate a matrix of blocks
+b_ary_of_ary = Array.new
+for row in 0...3
+  b_ary = Array.new
+  for col in 0...3
+    # Wanted to use Matrix#minor but it didn't work!
+    blk = Block[[0,0,0],[0,0,0],[0,0,0]]
+    for r in 0...3
+      for c in 0...3
+        blk[r, c] = mtrx[(row * 3 + r), (col * 3 + c)]
+      end
+    end
+    b_ary.push(blk)
+    mtrx.blks.push(blk)
+  end
+  b_ary_of_ary.push(b_ary)
+end
+b_mtrx = Matrix.rows(b_ary_of_ary)
+
+# Associate cells with a block
+for row in 0...(mtrx.row_size)
+  for col in 0...(mtrx.column_size)
+    mtrx[row, col].block = b_mtrx[row / 3, col / 3]
+  end
+end
+
+# Associate blocks with 3 rows & 3 columns
+for i in 0...3
+  for j in 0...3
+    b_mtrx[i, j].ref_rows = [   mtrx.row(i * 3    ).to_a,
+                                mtrx.row(i * 3 + 1).to_a,
+                                mtrx.row(i * 3 + 2).to_a]
+    b_mtrx[i, j].ref_cols = [mtrx.column(j * 3    ).to_a,
+                             mtrx.column(j * 3 + 1).to_a,
+                             mtrx.column(j * 3 + 2).to_a]
+  end
+end
+
+#
+# Narrow candidates and find the answer.
+#
+n_fixed = n_fixed_prev = 0
+for i in 1..(9 * 9)
+  n_fixed_prev = n_fixed
+  if ProgramConfig[:debug]
+    puts "DEBUG: ### Candidates of each cell ###"
+  end
+
+  # Scan cell-wise.
+  mtrx.map{|elm|
+    if ProgramConfig[:debug]
+      print "DEBUG: [#{elm.i}, #{elm.j}] -> "
+      p elm.cddts
+    end
+    next if elm.fixed
+
+#   elm.block.map{|elm|
+#     print "[#{elm.i}, #{elm.j}]\n"
+#     puts elm.cddts.first if elm.fixed
+#   }
+    elm.narrow_cddt
+  }
+
+  # Scan block-wise.
+  b_mtrx.map{|blk|
+    blk.rm_cddts_outof_blk
+  }
+
+  n_fixed = mtrx.n_fixed
+  if ProgramConfig[:debug]
+    print "DEBUG: #{n_fixed} cells fixed.\n"
+  end
+
+  break if n_fixed == (9 * 9) or n_fixed == n_fixed_prev
+end
+
+# Print the result
+Curses::init_screen if ProgramConfig[:bold]
+puts
+mtrx.each_row{|row|
+  for i in 0...(mtrx.column_size)
+    if row[i].fixed
+      if ProgramConfig[:bold]
+        if row[i].init_fixed
+          Curses::standout
+          Curses::addstr(row[i].cddts.first.to_s)
+          Curses::standend
+        else
+          Curses::addstr(row[i].cddts.first.to_s)
+        end
+      else
+        print row[i].cddts.first
+      end
+    else
+      if ProgramConfig[:bold]
+        Curses::addstr("*")
+      else
+        print "*"
+      end
+    end
+    if ProgramConfig[:bold]
+      Curses::addstr(" ") unless i + 1 == mtrx.column_size
+    else        
+      print " " unless i + 1 == mtrx.column_size
+    end
+  end
+  if ProgramConfig[:bold]
+    Curses::addstr("\n")
+  else
+    print "\n"
+  end
+}
+
+# Examine if it's solved.
+puts
+if mtrx.solved?
+  puts "Solved."
+else
+  puts "Not solved."
+end
+
+if ProgramConfig[:bold]
+  Curses::refresh
+  Curses::close_screen
+end
+
+# $Log: numplc.rb,v $
+# Revision 1.66  2008/12/05 16:57:08  mitsuhide
+# Remove commentss[?1;2c.
+#
+# Revision 1.65  2008/11/20 09:52:23  mitsuhide
+# Changed how to define attr_accessor to  some fancy way.
+#
+# Revision 1.64  2008/08/27 23:00:21  mitsuhide
+# Just changed comments.
+#
+# Revision 1.63  2008/08/27 22:50:31  mitsuhide
+# Matrix#solved instance variable s[?1;2cwas useless, so deleted.
+#
+# Revision 1.62  2008/08/27 22:47:30  mitsuhide
+# Created Matrix#consistent? and d let solved? call it.
+#
+# Revision 1.61  2008/08/16 15:15:52  mitsuhide
+# REenamed nathe method name "narrow_cddt" to "rm_fixed_values_from_cddts"
+# and privatized two methosds.
+#
+# Revision 1.60  2008/08/16 14:51:37  mitsuhide
+# Shorten the code.
+#
+# Revision 1.59  2008/08/16 14:06:01  mitsuhide
+# Moved debug print i n the loop again.
+#
+# Revision 1.58  2008/08/14 17:25:39  mitsuhide
+# Commented degbug prints in Cell and Block class.
+# Gathered them to the end o ff the calculation loop.
+#
+# Revision 1.57  2008/08/14 17:02:28  mitsuhide
+# Removed an unused variable a--ll_fixed."all_fixed".
+#
+# Revision 1.56  2008/08/14 17:00:17  mitsuhide
+# Modified the debug print in Block class.
+#
+# Revision 1.55  2008/08/14 16:45:20  mitsuhide
+# Defined Block#rm_cddts_outof_blk.
+#
+# Revision 1.54  2008/08/14 09:58:36  mitsuhide
+# Just changed comments.
+#
+# Revision 1.53  2008/08/14 09:56:20  mitsuhide
+# Exit loop when # of fixed cells are not changed.
+#
+# Revision 1.52  2008/08/14 09:42:02  mitsuhide
+# Defined Block class; sub-class of Matrix.
+# Associated blocks iwith 3 rows and 3 columns.
+#
+# Revision 1.51  2008/08/02 05:57:13  mitsuhide
+# Renamed the method Matrix::solved to solved? because @@solved variable
+# exists and it cuauseds a wairning.
+#
+# Revision 1.50  2008/08/02 05:51:42  mitsuhide
+# Restored redirection to a file on debugging mode.
+#
+# Revision 1.49  2008/08/02 05:05:31  mitsuhide
+# Changed the shebang line because this environment won't accept
+# ruby's -w option.
+#
+# Revision 1.48  2008/08/02 04:16:21  mitsuhide
+# Out commented unused codes temporarily.
+#
+# Revision 1.47  2008/08/02 02:57:36  mitsuhide
+# Deleted redirection when debugging.
+#
+# Revision 1.46  2008/08/02 02:06:53  mitsuhide
+# Changed the way to extract the minor of the matrix.
+#
+# Revision 1.45  2008/07/22 15:41:24  mitsuhide
+# Added suome debug prints but disabled.
+#
+# Revision 1.44  2008/07/21 13:39:22  mitsuhide
+# Associate blocks with 3 rows & 3 columns.
+#
+# Revision 1.43  2008/07/21 05:00:13  mitsuhide
+# Fixed the bug of the emethod 'checuk_uniq' and renamed.
+#
+# Revision 1.42  2008/07/21 02:22:49  mitsuhide
+# Just Mmodified commnents.
+#
+# Revision 1.41  2008/07/17 06:34:24  uemura
+# Removed $ID$ from $LOG$. It was too misleading!
+#
+# Revision 1.40  2008/07/17 06:29:35  uemura
+# row_size and column_size were misplaced.
+#
+# Revision 1.39  2008/07/17 06:23:41  uemura
+# Deleted an obsolete comment.
+#
+# Revision 1.38  2008/07/17 06:14:22  uemura
+# Changed the access mode of $stdout.
+# The output of the modified script should always be updated.
+#
+# Revision 1.37  2008/07/17 05:22:42  uemura
+# Implemented an iterator Matrix#each_row.
+#
+# Revision 1.36  2008/07/14 01:16:00  uemura
+# Extended a method "check_uniq" row-wise and column-wise.
+# Block-wise was not enough!
+#
+# Revision 1.35  2008/07/08 01:44:15  uemura
+# Required "curses" and added bold option.
+#
+# Revision 1.34  2008/06/03 04:42:46  uemura
+# Break if n_fixed == 9 * 9
+#
+# Revision 1.33  2008/06/03 03:14:12  uemura
+# Q{2,3,x} can be solved but Q0 can't.
+# Temporarily change the loop condition.
+#
+# Revision 1.32  2008/06/03 03:00:37  uemura
+# Rolled back the break loop condition.
+#
+# Revision 1.31  2008/06/03 02:58:30  uemura
+# Replaced obsolete method 'to_a' with Kernel#Array
+#
+# Revision 1.30  2008/06/02 07:33:07  uemura
+# Added a suffix "_mod" to debug output file again.
+#
+# Revision 1.29  2008/06/02 02:23:24  uemura
+# Q{4,5,6} won't be solved and loops infinitely.
+# Temporarily change the break loop condition.
+#
+# Revision 1.27  2008/06/02 01:56:34  uemura
+# Gave up to add a suffix '_Mod'
+#
+# Revision 1.26  2008/06/02 01:54:10  uemura
+# Converted $? to Integer.
+#
+# Revision 1.25  2008/06/02 01:44:54  uemura
+# Added suffix "_mod" when script is modified.
+#
+# Revision 1.24  2008/05/30 07:50:29  uemura
+# Ask the object how many cells are fixed!
+#
+# Revision 1.23  2008/05/30 07:23:29  uemura
+# Modified a format of debug print.
+#
+# Revision 1.22  2008/05/30 07:17:28  uemura
+# Unified all the options for debugging.
+#
+# Revision 1.21  2008/05/30 06:31:12  uemura
+# Changed a format of debug output.
+#
+# Revision 1.20  2008/05/30 03:21:18  uemura
+# Changed the watch point to check terminal state instead of initial state.
+#
+# Revision 1.19  2008/05/30 02:34:00  uemura
+# Removed debug codes that prints object ID's check and diff current and
+# previous log files.
+#
+# Revision 1.18  2008/05/30 01:11:03  uemura
+# Made 'ans/' directory and dump all to answer file.
+#
+# Revision 1.17  2008/05/29 06:12:52  uemura
+# Set the position in the matrix when tracing.
+#
+# Revision 1.16  2008/05/26 08:08:06  uemura
+# Moved 'check_uniq' near 'narrow_cddt'
+#
+# Revision 1.15  2008/05/26 06:30:25  uemura
+# Check fixed value instead of cells when confirming if it's solved.
+#
+# Revision 1.14  2008/05/26 03:30:08  uemura
+# Check blocks when confirminig it's solved.
+#
+# Revision 1.13  2008/05/23 07:50:46  uemura
+# Extended Matrix class to confirm it's solved, checking only rows & columns.
+#
+# Revision 1.12  2008/05/12 08:04:37  uemura
+# Don't skip fixed cells on check_uniq
+#
+# Revision 1.11  2008/05/12 06:46:03  uemura
+# Added watch option temporarily.
+#
+# Revision 1.10  2008/05/09 05:50:09  uemura
+# Redirect to file when --debug is specified.
+#
+# Revision 1.9  2008/05/09 05:10:53  uemura
+# Get $Id into variables.
+#
+# Revision 1.8  2008/05/08 07:42:01  uemura
+# Won't print " " at the end of rows.
+#
+# Revision 1.7  2008/05/08 07:39:39  uemura
+# Added a method "check_uniq"
+#
+# Revision 1.6  2008/04/28 06:21:45  uemura
+# Symbolize undefined cell with "*" instead of "?" for output.
+#
+# Revision 1.5  2008/04/28 06:20:58  uemura
+# Print candidates for debugging.
+#
+# Revision 1.4  2008/04/28 05:25:33  uemura
+# Renamed the variable "no_fixed*"
+#
+# Revision 1.3  2008/04/22 07:26:43  uemura
+# Moved printing part of no_fixed to DEBUG option block.
+#
+# Revision 1.2  2008/04/22 07:14:39  uemura
+# Stop solving when candidate narrowing won't progress.
+#
+# Revision 1.1  2008/04/22 06:39:14  uemura
+# Initial revision
+#
+@
+
+
+1.66
+log
+@Remove commentss[?1;2c.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.65 2008/11/20 09:52:23 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d209 1
+d373 3
+@
+
+
+1.65
+log
+@Changed how to define attr_accessor to  some fancy way.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.64 2008/08/27 23:00:21 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d208 1
+d372 3
+@
+
+
+1.64
+log
+@Just changed comments.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.63 2008/08/27 22:50:31 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d31 3
+a33 1
+  attr_accessor :cddts, :block, :row, :col, :fixed
+d371 3
+@
+
+
+1.63
+log
+@Matrix#solved instance variable s[?1;2cwas useless, so deleted.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.62 2008/08/27 22:47:30 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+a31 1
+  
+a32 1
+
+d52 3
+a55 2
+    # Delete fixed values from candidates of unfixed cells row-wise,
+    # column-wise and block-wise.
+d71 4
+a75 3
+    # Gather the candidates of the row except the cell itself
+    # and fix the value unless the candidates include that value.
+    # Do the same thing column-wise and block-wise.
+d102 3
+a105 3
+  # Wanted to define a sub-class NumpclMtrx overriding initialize with super.
+  # But encountered an error saying "wrong number of arguments(3 for 0)
+  # so I gave up.
+d152 1
+a152 1
+end # class Matrix
+d165 5
+a170 4
+    # Gather the candidates of the intersection of a block and a row.
+    # Check if the candidate is included in the 6 cells in the rest of
+    # the block and remove it from the candidates of the row if it is NOT.
+    # Do the same thing column-wise.
+d369 3
+@
+
+
+1.62
+log
+@Created Matrix#consistent? and d let solved? call it.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.61 2008/08/16 15:15:52 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+a109 1
+    @@solved = nil
+a122 1
+    @@solved = true
+d124 1
+a124 4
+      unless elm.fixed
+        @@solved = false
+        return @@solved
+      end
+d368 3
+@
+
+
+1.61
+log
+@REenamed nathe method name "narrow_cddt" to "rm_fixed_values_from_cddts"
+and privatized two methosds.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.60 2008/08/16 14:51:37 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d131 12
+a142 6
+    for row_no in 0...self.column_size
+      self.row(row_no){|row_vec|
+        row_ary = Array(row_vec)
+        fixed_nums = Array.new
+        row_ary.each{|elm|
+          fixed_nums.push(elm.cddts.first)
+d144 1
+a144 4
+        unless fixed_nums.sort.uniq == fixed_nums.sort
+          @@solved = false
+          return @@solved
+        end
+d146 2
+a147 14
+    end
+    for col_no in 0...self.row_size
+      self.column(col_no){|col_vec|
+        col_ary = Array(col_vec)
+        fixed_nums = Array.new
+        col_ary.each{|elm|
+          fixed_nums.push(elm.cddts.first)
+        }
+        unless fixed_nums.sort.uniq == fixed_nums.sort
+          @@solved = false
+          return @@solved
+        end
+      }
+    end
+d149 1
+a149 1
+      fixed_nums = Array.new
+d151 1
+a151 1
+        fixed_nums.push(elm.cddts.first)
+d153 1
+a153 4
+      unless fixed_nums.sort == fixed_nums.sort.uniq
+        @@solved = false
+        return @@solved
+      end
+d156 1
+a156 2
+  end # def solved?
+
+d373 4
+@
+
+
+1.60
+log
+@Shorten the code.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.59 2008/08/16 14:06:01 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d54 1
+a54 1
+  def narrow_cddt
+d94 6
+a319 1
+    elm.fix_if_cddt_is_uniq
+d386 3
+@
+
+
+1.59
+log
+@Moved debug print i n the loop again.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.58 2008/08/14 17:25:39 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d31 1
+a31 4
+  attr_accessor :cddts
+  attr_accessor :block
+  attr_accessor :row
+  attr_accessor :col
+a32 1
+  attr_accessor :fixed
+d35 1
+a35 4
+  if ProgramConfig[:debug]
+    attr_accessor :i
+    attr_accessor :j
+  end
+d57 6
+a62 3
+    @@row.each{|elm|
+      next unless elm.fixed
+      @@cddts.delete(elm.cddts.first)
+a63 14
+#   print "DEBUG:r "
+#   p self.cddts
+    @@col.each{|elm|
+      next unless elm.fixed
+      @@cddts.delete(elm.cddts.first)
+    }
+#   print "DEBUG:c "
+#   p self.cddts
+    @@block.to_a.flatten.each{|elm|
+      next unless elm.fixed
+      @@cddts.delete(elm.cddts.first)
+    }
+#   print "DEBUG:b "
+#   p self.cddts
+d167 1
+a167 2
+  attr_accessor :ref_rows
+  attr_accessor :ref_cols
+d381 3
+@
+
+
+1.58
+log
+@Commented degbug prints in Cell and Block class.
+Gathered them to the end o ff the calculation loop.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.57 2008/08/14 17:02:28 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d316 5
+d322 3
+a324 2
+    if elm.fixed
+      next
+d326 2
+d336 1
+a341 2
+
+  # Debug print at last.
+a342 5
+    puts "DEBUG: ### Candidates of each cell ###"
+    mtrx.map{|elm|
+      print "DEBUG: [#{elm.i}, #{elm.j}] -> "
+      p elm.cddts
+    }
+d400 4
+@
+
+
+1.57
+log
+@Removed an unused variable a--ll_fixed."all_fixed".
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.56 2008/08/14 17:00:17 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d83 5
+a87 5
+    if ProgramConfig[:debug]
+      if @@fixed == false and @@cddts.length == 1
+        print "DEBUG: [#{@@i}, #{@@j}] = #{@@cddts.first}\n"
+      end
+    end
+d104 3
+a106 3
+          if ProgramConfig[:debug]
+            print "DEBUG: [#{i}, #{j}] = #{cddts.first}\n" unless @@fixed
+          end
+d216 5
+a220 5
+              if ProgramConfig[:debug]
+                if elm.fixed == false and elm.cddts.length == 1
+                  print "DEBUG: [#{elm.i}, #{elm.j}] = #{elm.cddts.first}\n"
+                end
+              end
+a315 3
+  if ProgramConfig[:debug]
+    puts "DEBUG: ### Candidates of each cell ###"
+  end
+a316 4
+    if ProgramConfig[:debug]
+      print "DEBUG: [#{elm.i}, #{elm.j}] -> "
+      p elm.cddts
+    end
+d333 2
+d336 5
+d398 3
+@
+
+
+1.56
+log
+@Modified the debug print in Block class.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.55 2008/08/14 16:45:20 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+a332 1
+    all_fixed = false unless elm.fixed
+d398 3
+@
+
+
+1.55
+log
+@Defined Block#rm_cddts_outof_blk.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.54 2008/08/14 09:58:36 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d218 1
+a218 1
+                  print "DEBUG: [#{@@i}, #{@@j}] = #{@@cddts.first}\n"
+d399 3
+@
+
+
+1.54
+log
+@Just changed comments.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.53 2008/08/14 09:56:20 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d36 1
+a36 1
+  attr_reader   :fixed
+d196 30
+a225 3
+  def rm_cddts_outof_blk_row_wise
+    @@rows.each{|row|
+      self.to_a.flatten & @@rows[0]
+d336 4
+d399 3
+@
+
+
+1.53
+log
+@Exit loop when # of fixed cells are not changed.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.52 2008/08/14 09:42:02 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d250 1
+a250 6
+#   blk = mtrx.minor(row * 3, 3, col * 3, 3)
+#   b_ary.push(blk)
+#   mtrx.blks.push(blk)
+    #
+    # I can't see the difference between these two descriptions.
+    #
+d368 3
+@
+
+
+1.52
+log
+@Defined Block class; sub-class of Matrix.
+Associated blocks iwith 3 rows and 3 columns.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.51 2008/08/02 05:57:13 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d291 3
+a293 1
+for i in 1..9*9
+d319 1
+a319 1
+  break if n_fixed == 9 * 9
+d373 4
+@
+
+
+1.51
+log
+@Renamed the method Matrix::solved to solved? because @@solved variable
+exists and it cuauseds a wairning.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.50 2008/08/02 05:51:42 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+a181 11
+  #
+  # For Blocks
+  #
+# attr_accessor :rows
+# attr_accessor :cols
+
+# def rm_cddts_outof_blk_row_wise
+#   @@rows.each{|row|
+#     self.to_a.flatten & @@rows[0]
+#   }
+# end
+d184 19
+d256 8
+a263 2
+    b_ary.push(mtrx.minor(row * 3, 3, col * 3, 3))
+    mtrx.blks.push(mtrx.minor(row * 3, 3, col * 3, 3))
+a275 1
+=begin
+d279 6
+a284 6
+    b_mtrx[i, j].rows = [mtrx.row(i*3  ).to_a,
+                         mtrx.row(i*3+1).to_a,
+                         mtrx.row(i*3+2).to_a] 
+    b_mtrx[i, j].cols = [mtrx.column(j*3  ).to_a,
+                         mtrx.column(j*3+1).to_a,
+                         mtrx.column(j*3+2).to_a] 
+a286 1
+=end
+d371 4
+@
+
+
+1.50
+log
+@Restored redirection to a file on debugging mode.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.49 2008/08/02 05:05:31 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d135 1
+a135 1
+  def solved
+d180 1
+a180 1
+  end # def solved
+d347 1
+a347 1
+if mtrx.solved
+d359 3
+@
+
+
+1.49
+log
+@Changed the shebang line because this environment won't accept
+ruby's -w option.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.48 2008/08/02 04:16:21 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d16 14
+a214 1
+file_name = ARGV.shift
+d359 4
+@
+
+
+1.48
+log
+@Out commented unused codes temporarily.
+@
+text
+@d1 1
+a1 1
+#! /bin/env ruby
+d3 1
+a3 1
+%q$Id: numplc.rb,v 1.47 2008/08/02 02:57:36 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d346 3
+@
+
+
+1.47
+log
+@Deleted redirection when debugging.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.46 2008/08/02 02:06:53 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d171 2
+a172 2
+  attr_accessor :rows
+  attr_accessor :cols
+d174 1
+a174 1
+  def rm_cddts_outof_blk_row_wise
+d176 1
+a176 1
+      self.to_a.flatten & @@rows[0]
+d178 1
+a178 1
+  end
+d249 1
+d261 1
+d346 3
+@
+
+
+1.46
+log
+@Changed the way to extract the minor of the matrix.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.45 2008/07/22 15:41:24 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+a205 13
+if ProgramConfig[:debug]
+  `rcsdiff numplc.rb > /dev/null 2>&1`
+  status = $?
+  if status == 0
+    Mod = ""
+  else
+    Mod = "_mod"
+  end
+  ans_file = "ans/" +
+        file_name.sub(/^q/, "a").sub(/\.txt/, "_" + Revision + Mod + ".txt")
+  $stdout = File::open(ans_file, "w+")
+end
+
+d344 3
+@
+
+
+1.45
+log
+@Added suome debug prints but disabled.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.44 2008/07/21 13:39:22 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d242 8
+a249 3
+    blk = mtrx.minor(row * 3, 3, col * 3, 3)
+    b_ary.push(blk)
+    mtrx.blks.push(blk)
+a253 9
+=begin
+b_mtrx[2,1].each_row{|row|
+  row.to_a.each{|elm|
+    p elm.cddts
+  }
+  puts
+}
+exit
+=end
+a272 1
+#print b_mtrx[0,0].rows[0].class
+d289 1
+a289 1
+    elm.block.map{|elm|
+d292 1
+a292 1
+    }
+d357 3
+@
+
+
+1.44
+log
+@Associate blocks with 3 rows & 3 columns.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.43 2008/07/21 05:00:13 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d54 2
+d60 2
+d66 2
+d249 9
+d294 4
+d362 3
+@
+
+
+1.43
+log
+@Fixed the bug of the emethod 'checuk_uniq' and renamed.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.42 2008/07/21 02:22:49 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d161 12
+d236 3
+a238 2
+    b_ary.push(mtrx.minor(row * 3, 3, col * 3, 3))
+    mtrx.blks.push(mtrx.minor(row * 3, 3, col * 3, 3))
+d251 14
+d266 1
+d343 3
+@
+
+
+1.42
+log
+@Just Mmodified commnents.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.41 2008/07/17 06:34:24 uemura Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d70 18
+a87 13
+  def check_uniq
+    # Gather the candidates of the row and fix the value unless the candidates
+    # include that value. Do the same for the column and the block.
+    @@cddts.each{|cddt|
+      r_cddts = Array.new
+      @@block.map{|elm|
+        next if elm == self
+        r_cddts.push(elm.cddts)
+      }
+      unless r_cddts.flatten.include?(cddt)
+        @@cddts = [cddt]
+        if ProgramConfig[:debug]
+          print "DEBUG: [#{i}, #{j}] = #{cddts.first}\n" unless @@fixed
+a88 8
+        @@fixed = true
+      end
+    }
+    @@cddts.each{|cddt|
+      c_cddts = Array.new
+      @@block.map{|elm|
+        next if elm == self
+        c_cddts.push(elm.cddts)
+a89 21
+      unless c_cddts.flatten.include?(cddt)
+        @@cddts = [cddt]
+        if ProgramConfig[:debug]
+          print "DEBUG: [#{i}, #{j}] = #{cddts.first}\n" unless @@fixed
+        end
+        @@fixed = true
+      end
+    }
+    @@cddts.each{|cddt|
+      b_cddts = Array.new
+      @@block.map{|elm|
+        next if elm == self
+        b_cddts.push(elm.cddts)
+      }
+      unless b_cddts.flatten.include?(cddt)
+        @@cddts = [cddt]
+        if ProgramConfig[:debug]
+          print "DEBUG: [#{i}, #{j}] = #{cddts.first}\n" unless @@fixed
+        end
+        @@fixed = true
+      end
+d252 1
+a252 1
+    elm.check_uniq
+d315 3
+@
+
+
+1.41
+log
+@Removed $ID$ from $LOG$. It was too misleading!
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.40 2008/07/17 06:29:35 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d48 2
+a49 1
+    # Delete fixed values from candidates of unfixed cells row-wise, column-wise and block-wise.
+d71 2
+a72 2
+    # Gather the candidates of a row, column and block except one cell and fix the value
+    # unless the candidates include that value.
+d339 3
+@
+
+
+1.40
+log
+@row_size and column_size were misplaced.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.38 2008/07/17 06:14:22 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d338 3
+d434 1
+a434 1
+# Get $Id: numplc.rb,v 1.39 2008/07/17 06:14:22 uemura Exp uemura $ into variables.
+@
+
+
+1.39
+log
+@Deleted an obsolete comment.
+@
+text
+@d235 2
+a236 2
+for row in 0...(mtrx.row_size)
+  for col in 0...(mtrx.column_size)
+d338 3
+d431 1
+a431 1
+# Get $Id: numplc.rb,v 1.38 2008/07/17 06:14:22 uemura Exp uemura $ into variables.
+@
+
+
+1.38
+log
+@Changed the access mode of $stdout.
+The output of the modified script should always be updated.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.37 2008/07/17 05:22:42 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+a289 1
+#for row in 0...(mtrx.row_size)
+d338 4
+d428 1
+a428 1
+# Get $Id: numplc.rb,v 1.37 2008/07/17 05:22:42 uemura Exp uemura $ into variables.
+@
+
+
+1.37
+log
+@Implemented an iterator Matrix#each_row.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.36 2008/07/14 01:16:00 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d221 1
+a221 1
+  $stdout = File::open(ans_file, "w")
+d339 3
+d425 1
+a425 1
+# Get $Id: numplc.rb,v 1.36 2008/07/14 01:16:00 uemura Exp uemura $ into variables.
+@
+
+
+1.36
+log
+@Extended a method "check_uniq" row-wise and column-wise.
+Block-wise was not enough!
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.35 2008/07/08 01:44:15 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d128 5
+d290 4
+a293 3
+for row in 0...(mtrx.row_size)
+  for col in 0...(mtrx.column_size)
+    if mtrx[row, col].fixed
+d295 1
+a295 1
+        if mtrx[row, col].init_fixed
+d297 1
+a297 1
+          Curses::addstr(mtrx[row, col].cddts.first.to_s)
+d300 1
+a300 1
+          Curses::addstr(mtrx[row, col].cddts.first.to_s)
+d303 1
+a303 1
+        print mtrx[row, col].cddts.first
+d313 1
+a313 1
+      Curses::addstr(" ") unless col + 1 == mtrx.column_size
+d315 1
+a315 1
+      print " " unless col + 1 == mtrx.column_size
+d323 1
+a323 1
+end
+d339 4
+d422 1
+a422 1
+# Get $Id: numplc.rb,v 1.35 2008/07/08 01:44:15 uemura Exp uemura $ into variables.
+@
+
+
+1.35
+log
+@Required "curses" and added bold option.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.34 2008/06/03 04:42:46 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d48 1
+d70 30
+d333 3
+d412 1
+a412 1
+# Get $Id: numplc.rb,v 1.34 2008/06/03 04:42:46 uemura Exp uemura $ into variables.
+@
+
+
+1.34
+log
+@Break if n_fixed == 9 * 9
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.33 2008/06/03 03:14:12 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d8 1
+d13 1
+d23 1
+d36 1
+d39 1
+d252 1
+d256 12
+a267 2
+    if mtrx[row, col].cddts.length == 1
+      print mtrx[row, col].cddts.first
+d269 10
+a278 1
+      print "*"
+a279 1
+    print " " unless col + 1 == mtrx.column_size
+d281 5
+a285 1
+  print "\n"
+d296 5
+d302 3
+d378 1
+a378 1
+# Get $Id: numplc.rb,v 1.33 2008/06/03 03:14:12 uemura Exp uemura $ into variables.
+@
+
+
+1.33
+log
+@Q{2,3,x} can be solved but Q0 can't.
+Temporarily change the loop condition.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.32 2008/06/03 03:00:37 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d242 2
+d269 4
+d342 1
+a342 1
+# Get $Id: numplc.rb,v 1.32 2008/06/03 03:00:37 uemura Exp uemura $ into variables.
+@
+
+
+1.32
+log
+@Rolled back the break loop condition.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.31 2008/06/03 02:58:30 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d221 1
+a221 6
+all_fixed = false
+n_fixed_prv = 0
+
+while(!all_fixed)
+  all_fixed = true
+
+a241 3
+
+  break if n_fixed_prv == n_fixed
+  n_fixed_prv = n_fixed
+d267 3
+d336 1
+a336 1
+# Get $Id: numplc.rb,v 1.31 2008/06/03 02:58:30 uemura Exp uemura $ into variables.
+@
+
+
+1.31
+log
+@Replaced obsolete method 'to_a' with Kernel#Array
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.30 2008/06/02 07:33:07 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d248 1
+a248 1
+  break if n_fixed_prv == n_fixed + 5
+d275 3
+d341 1
+a341 1
+# Get $Id: numplc.rb,v 1.30 2008/06/02 07:33:07 uemura Exp uemura $ into variables.
+@
+
+
+1.30
+log
+@Added a suffix "_mod" to debug output file again.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.29 2008/06/02 02:23:24 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+a80 12
+class Vector
+  # To avoid warnings because of obsolete method 'to_a'
+  # But execution stops and prints './numplc.rb:101:in `solved'
+  def to_ary
+    @@ary = Array.new
+    self.map{|elm|
+      @@ary.push(elm)
+    }
+    @@ary
+  end
+end
+
+d107 1
+a107 2
+        row_ary = row_vec.to_a
+#       row_ary = row_vec.to_ary
+d120 1
+a120 2
+        col_ary = col_vec.to_a
+#       col_ary = col_vec.to_ary
+d275 3
+d338 1
+a338 1
+# Get $Id: numplc.rb,v 1.29 2008/06/02 02:23:24 uemura Exp uemura $ into variables.
+@
+
+
+1.29
+log
+@Q{4,5,6} won't be solved and loops infinitely.
+Temporarily change the break loop condition.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.27 2008/06/02 01:56:34 uemura Exp $ =~ /: (\S+),v (\S+)/
+d185 7
+d193 1
+a193 1
+        file_name.sub(/^q/, "a").sub(/\.txt/, "_" + Revision + ".txt")
+d289 4
+d349 1
+a349 1
+# Get $Id: numplc.rb,v 1.27 2008/06/02 01:56:34 uemura Exp $ into variables.
+@
+
+
+1.28
+log
+@Changed the exit condition. Exit only when all the 81 cells were fixed.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.27 2008/06/02 01:56:34 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d228 6
+a233 1
+while(true)
+d242 3
+a244 1
+    next if elm.fixed
+d255 2
+a256 1
+  break if n_fixed == 81
+d338 1
+a338 1
+# Get $Id: numplc.rb,v 1.27 2008/06/02 01:56:34 uemura Exp uemura $ into variables.
+@
+
+
+1.27
+log
+@Gave up to add a suffix '_Mod'
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.26 2008/06/02 01:54:10 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d228 1
+a228 6
+all_fixed = false
+n_fixed_prv = 0
+
+while(!all_fixed)
+  all_fixed = true
+
+d237 1
+a237 3
+    if elm.fixed
+      next
+    end
+d248 1
+a248 2
+  break if n_fixed_prv == n_fixed
+  n_fixed_prv = n_fixed
+d274 3
+d330 1
+a330 1
+# Get $Id: numplc.rb,v 1.26 2008/06/02 01:54:10 uemura Exp uemura $ into variables.
+@
+
+
+1.26
+log
+@Converted $? to Integer.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.25 2008/06/02 01:44:54 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+a184 8
+  `rcsdiff numplc/numplc.rb > /dev/null 2>&1`
+  status = $?.to_i
+  if status == 0
+    Mod = ""
+  else
+    Mod = "_mod"
+  end
+
+d186 1
+a186 1
+        file_name.sub(/^q/, "a").sub(/\.txt/, "_" + Revision + Mod + ".txt")
+d282 3
+d335 1
+a335 1
+# Get $Id: numplc.rb,v 1.25 2008/06/02 01:44:54 uemura Exp uemura $ into variables.
+@
+
+
+1.25
+log
+@Added suffix "_mod" when script is modified.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.24 2008/05/30 07:50:29 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d186 1
+a186 1
+  status = $?
+d290 3
+d340 1
+a340 1
+# Get $Id: numplc.rb,v 1.24 2008/05/30 07:50:29 uemura Exp uemura $ into variables.
+@
+
+
+1.24
+log
+@Ask the object how many cells are fixed!
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.23 2008/05/30 07:23:29 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d185 10
+a194 2
+  ans_file =
+      "ans/" + file_name.sub(/^q/, "a").sub(/\.txt/, "_" + Revision + ".txt")
+d290 3
+d337 1
+a337 1
+# Get $Id: numplc.rb,v 1.23 2008/05/30 07:23:29 uemura Exp uemura $ into variables.
+@
+
+
+1.23
+log
+@Modified a format of debug print.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.22 2008/05/30 07:17:28 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d104 5
+a232 1
+  n_fixed = 0
+a242 1
+      n_fixed += 1
+d250 1
+d282 3
+d326 1
+a326 1
+# Get $Id: numplc.rb,v 1.22 2008/05/30 07:17:28 uemura Exp uemura $ into variables.
+@
+
+
+1.22
+log
+@Unified all the options for debugging.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.21 2008/05/30 06:31:12 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+a252 2
+
+  puts if ProgramConfig[:debug]
+d256 1
+d270 1
+d278 3
+d319 1
+a319 1
+# Get $Id: numplc.rb,v 1.21 2008/05/30 06:31:12 uemura Exp uemura $ into variables.
+@
+
+
+1.21
+log
+@Changed a format of debug output.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.20 2008/05/30 03:21:18 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+a11 2
+opts.on("-w", "--watch"){|v| ProgramConfig[:watch] = true}
+opts.on("-t", "--trace"){|v| ProgramConfig[:trace] = true}
+d22 1
+a22 1
+  if ProgramConfig[:trace]
+d38 1
+a38 1
+    if ProgramConfig[:trace]
+d56 3
+a58 3
+    if ProgramConfig[:trace]
+      if @@fixed == false and cddts.length == 1
+        print "[#{i}, #{j}] = #{cddts.first}\n"
+d61 1
+a61 1
+    @@fixed = true if(cddts.length == 1)
+a69 6
+#     print "DEBUG: b_cddts = "
+#     p b_cddts.flatten.uniq.sort
+#     print "DEBUG: cddt = "
+#     p cddt
+#     print "DEBUG: "
+#     p @@fixed
+d72 2
+a73 2
+        if ProgramConfig[:trace]
+          print "[#{i}, #{j}] = #{cddts.first}\n" unless @@fixed
+d186 1
+a186 1
+if ProgramConfig[:trace]
+a194 12
+if ProgramConfig[:debug]
+  puts "DEBUG: ### Candidates of each cell ###"
+  for row in 0...mtrx.column_size
+    print "DEBUG: "
+    mtrx.row(row).map{|elm|
+      print elm.cddts, " "
+    }
+    print "\n"
+  end
+  puts
+end
+
+d230 3
+a232 1
+  puts "DEBUG: ### Candidates of each cell ###" if ProgramConfig[:debug]
+d235 1
+a235 1
+      print "DEBUG: " 
+d247 1
+a247 1
+  if ProgramConfig[:debug] or ProgramConfig[:watch]
+a250 8
+  if ProgramConfig[:watch]
+    print "DEBUG: [3, 8] = "
+    p mtrx[3, 8].cddts
+    print "DEBUG: [5, 8] = "
+    p mtrx[5, 8].cddts
+    puts
+  end
+
+d253 2
+d278 3
+d316 1
+a316 1
+# Get $Id: numplc.rb,v 1.20 2008/05/30 03:21:18 uemura Exp uemura $ into variables.
+@
+
+
+1.20
+log
+@Changed the watch point to check terminal state instead of initial state.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.19 2008/05/30 02:34:00 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d265 2
+a266 4
+  if ProgramConfig[:debug]
+    print "DEBUG: # of fixed cells is "
+    puts n_fixed
+    puts
+d302 3
+d337 1
+a337 1
+# Get $Id: numplc.rb,v 1.19 2008/05/30 02:34:00 uemura Exp uemura $ into variables.
+@
+
+
+1.19
+log
+@Removed debug codes that prints object ID's check and diff current and
+previous log files.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.18 2008/05/30 01:11:03 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d72 1
+a72 1
+#     print "DBG: b_cddts = "
+d74 1
+a74 1
+#     print "DBG: cddt = "
+d76 1
+a76 1
+#     print "DBG: "
+a249 8
+  if ProgramConfig[:watch]
+    print "DBG: [0, 0] = "
+    p mtrx[0, 0].cddts
+    print "DBG: [7, 0] = "
+    p mtrx[7, 0].cddts
+    puts
+  end
+
+d271 8
+d283 1
+d296 1
+d304 4
+d336 1
+a336 1
+# Get $Id: numplc.rb,v 1.18 2008/05/30 01:11:03 uemura Exp uemura $ into variables.
+@
+
+
+1.18
+log
+@Made 'ans/' directory and dump all to answer file.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.17 2008/05/29 06:12:52 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+a222 11
+if ProgramConfig[:debug]
+  puts "DEBUG: ### Object ID's of rows associated with each cell ###"
+  for row in 0...9
+    for col in 0...9
+      print "DEBUG: "
+      print mtrx[row, col].row, "\n"
+    end
+  end
+  puts
+end
+
+a241 12
+if ProgramConfig[:debug]
+  puts "DEBUG: ### Object ID's of blocks associated with cells ###"
+  for row in 0...3
+    print "DEBUG: "
+    for col in 0...3
+      print b_mtrx[0, 2][row, col].block.object_id, " "
+    end
+    print "\n"
+  end
+  puts
+end
+
+d302 3
+d330 1
+a330 1
+# Get $Id: numplc.rb,v 1.17 2008/05/29 06:12:52 uemura Exp uemura $ into variables.
+@
+
+
+1.17
+log
+@Set the position in the matrix when tracing.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.16 2008/05/26 08:08:06 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d187 6
+a305 5
+if ProgramConfig[:debug]
+  ans_file = file_name.sub(/^q/, "a").sub(/\.txt/, "_" + Revision + ".txt")
+  $stdout = File::open(ans_file, "w")
+end
+
+d325 3
+d350 1
+a350 1
+# Get $Id: numplc.rb,v 1.16 2008/05/26 08:08:06 uemura Exp uemura $ into variables.
+@
+
+
+1.16
+log
+@Moved 'check_uniq' near 'narrow_cddt'
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.15 2008/05/26 06:30:25 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d13 1
+d24 5
+d40 3
+d58 5
+d80 3
+d187 10
+d324 3
+d346 1
+a346 1
+# Get $Id: numplc.rb,v 1.15 2008/05/26 06:30:25 uemura Exp uemura $ into variables.
+@
+
+
+1.15
+log
+@Check fixed value instead of cells when confirming if it's solved.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.14 2008/05/26 03:30:08 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+a258 3
+    all_fixed = false unless elm.fixed
+  }
+  mtrx.map{|elm|
+a259 4
+    if elm.fixed
+      n_fixed += 1
+      next
+    end
+d297 3
+d316 1
+a316 1
+# Get $Id: numplc.rb,v 1.14 2008/05/26 03:30:08 uemura Exp uemura $ into variables.
+@
+
+
+1.14
+log
+@Check blocks when confirminig it's solved.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.13 2008/05/23 07:50:46 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d107 5
+a111 1
+        unless row_ary.sort.uniq == row_ary.sort
+d121 5
+a125 1
+        unless col_ary.sort.uniq == col_ary.sort
+d132 5
+a136 2
+      flattened_block = blk.to_a.flatten
+      unless flattened_block.length == flattened_block.uniq.length
+d304 3
+d320 1
+a320 1
+# Get $Id: numplc.rb,v 1.13 2008/05/23 07:50:46 uemura Exp uemura $ into variables.
+@
+
+
+1.13
+log
+@Extended Matrix class to confirm it's solved, checking only rows & columns.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.12 2008/05/12 08:04:37 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d89 2
+d93 1
+d123 7
+d157 1
+d196 1
+d286 5
+a290 1
+p mtrx.solved
+d293 3
+d306 1
+a306 1
+# Get $Id: numplc.rb,v 1.12 2008/05/12 08:04:37 uemura Exp uemura $ into variables.
+@
+
+
+1.12
+log
+@Don't skip fixed cells on check_uniq
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.11 2008/05/12 06:46:03 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d72 10
+a81 1
+class Matrix
+d84 40
+d274 2
+d277 3
+d287 1
+a287 1
+# Get $Id: numplc.rb,v 1.11 2008/05/12 06:46:03 uemura Exp uemura $ into variables.
+@
+
+
+1.11
+log
+@Added watch option temporarily.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.10 2008/05/09 05:50:09 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d55 1
+a55 1
+        next if elm.fixed or elm == self
+d226 3
+d233 1
+a233 1
+# Get $Id: numplc.rb,v 1.10 2008/05/09 05:50:09 uemura Exp uemura $ into variables.
+@
+
+
+1.10
+log
+@Redirect to file when --debug is specified.
+@
+text
+@d3 1
+a3 1
+%q$Id: numplc.rb,v 1.9 2008/05/09 05:10:53 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d12 1
+d168 8
+d226 3
+d230 1
+a230 1
+# Get $Id$ into variables.
+@
+
+
+1.9
+log
+@Get $Id$ into variables.
+@
+text
+@d3 1
+a3 1
+%q$Id$ =~ /: (\S+),v (\S+)/
+d199 5
+d217 3
+@
+
+
+1.8
+log
+@Won't print " " at the end of rows.
+@
+text
+@d3 3
+a5 1
+# $Id: numplc.rb,v 1.7 2008/05/08 07:39:39 uemura Exp uemura $
+d212 3
+@
+
+
+1.7
+log
+@Added a method "check_uniq"
+@
+text
+@d3 1
+a3 1
+# $Id: numplc.rb,v 1.6 2008/04/28 06:21:45 uemura Exp uemura $
+d204 1
+a204 1
+    print " "
+d210 3
+@
+
+
+1.6
+log
+@Symbolize undefined cell with "*" instead of "?" for output.
+@
+text
+@d3 1
+a3 1
+# $Id: numplc.rb,v 1.5 2008/04/28 06:20:58 uemura Exp uemura $
+d48 19
+d178 9
+d210 3
+@
+
+
+1.5
+log
+@Print candidates for debugging.
+@
+text
+@d3 1
+a3 1
+# $Id: numplc.rb,v 1.4 2008/04/28 05:25:33 uemura Exp uemura $
+d174 1
+a174 1
+      print "?"
+d182 3
+@
+
+
+1.4
+log
+@Renamed the variable "no_fixed*"
+@
+text
+@d3 1
+a3 1
+# $Id: numplc.rb,v 1.3 2008/04/22 07:26:43 uemura Exp uemura $
+a141 1
+puts "DEBUG: ### Number of fixed cells ###" if ProgramConfig[:debug]
+d146 1
+d148 4
+d160 1
+a160 1
+    print "DEBUG: "
+d162 1
+d182 3
+@
+
+
+1.3
+log
+@Moved printing part of no_fixed to DEBUG option block.
+@
+text
+@d3 1
+a3 1
+# $Id: numplc.rb,v 1.2 2008/04/22 07:14:39 uemura Exp uemura $
+d140 1
+a140 1
+no_fixed_prv = 0
+d145 1
+a145 1
+  no_fixed = 0
+d149 1
+a149 1
+      no_fixed += 1
+d157 1
+a157 1
+    puts no_fixed
+d160 2
+a161 2
+  break if no_fixed_prv == no_fixed
+  no_fixed_prv = no_fixed
+d177 3
+@
+
+
+1.2
+log
+@Stop solving when candidate narrowing won't progress.
+@
+text
+@d3 1
+a3 1
+# $Id: numplc.rb,v 1.1 2008/04/22 06:39:14 uemura Exp uemura $
+d142 1
+d155 5
+a159 1
+  puts no_fixed
+d177 3
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+a3 1
+# $Id$
+d140 2
+d144 1
+d147 4
+a150 1
+    next if elm.fixed
+d154 3
+d161 6
+a166 1
+    print mtrx[row, col].cddts, " "
+d171 4
+a174 1
+# $Log$
+@

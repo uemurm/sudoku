@@ -1,0 +1,433 @@
+head	1.12;
+access;
+symbols;
+locks
+	uemura:1.12; strict;
+comment	@# @;
+
+
+1.12
+date	2008.12.05.16.09.24;	author mitsuhide;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2008.08.02.08.11.29;	author mitsuhide;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2008.08.02.06.02.53;	author mitsuhide;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2008.08.02.05.03.25;	author mitsuhide;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2008.07.17.07.59.08;	author uemura;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2008.07.17.07.56.34;	author uemura;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2008.07.17.07.47.20;	author uemura;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2008.07.17.06.01.22;	author uemura;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2008.07.17.05.41.30;	author uemura;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2008.07.15.01.16.58;	author uemura;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2008.05.30.03.09.43;	author uemura;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.05.30.03.08.32;	author uemura;	state Exp;
+branches;
+next	;
+
+
+desc
+@Check if numplc.rb regresses or not!
+@
+
+
+1.12
+log
+@Don't check if reference file doesn't exit[?1;2cst.
+@
+text
+@#! /bin/ruby -w
+
+%q$Id: test_numplc.rb,v 1.11 2008/08/02 08:11:29 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+ProgName = $1
+Revision = $2
+
+require 'optparse'
+ProgramConfig = Hash.new
+opts = OptionParser.new
+opts.on("-h", "--help"){|v| ProgramConfig[:help] = true}
+opts.on("-d", "--debug"){|v| ProgramConfig[:debug] = true}
+opts.parse!(ARGV)
+
+if ProgramConfig[:help]
+  print "Usage: ", ProgName, " [-h]\n"
+  print "Revision: ", Revision, "\n"
+  print "Check if 'numplc.rb' regresses or not.\n"
+
+  exit(1)
+end
+
+unless ProgramConfig[:debug]
+  q_files = Dir.glob("q/*.txt")
+  q_files.each{|q_file|
+    `./numplc.rb -d #{q_file}`
+  }
+end
+
+re = %r|a/([\w-]+)_(\d+)\.(\w+)\.txt|
+q2as = Hash.new
+q_names = []
+Dir.glob("a/*.txt").sort.each{|a_file|
+  a_file =~ re
+  q_name = $1
+  major  = $2
+  minor  = $3
+
+  q2as[q_name] = []
+  q_names.push(q_name)
+}
+q_names.uniq!
+
+Dir.glob("a/*.txt").sort.each{|a_file|
+  a_file =~ re
+  q_name = $1
+  major  = $2
+  minor  = $3
+
+  q2as[q_name].push(minor)
+}
+q_names.each{|q_name|
+  last2 = q2as[q_name][-2]
+  last  = q2as[q_name].last
+  last2 = last unless last2
+  ref_file = q_name + "_1." + last2 + ".txt"
+  mod_file = q_name + "_1." + last  + ".txt"
+  if ProgramConfig[:debug]
+    print `ls   -q a/#{ref_file} a/#{mod_file}`
+  else
+    print `diff -q a/#{ref_file} a/#{mod_file}`
+  end
+}
+
+# $Log: test_numplc.rb,v $
+# Revision 1.11  2008/08/02 08:11:29  mitsuhide
+# Totally changed the spec. Compare two latest files of each question.
+#
+# Revision 1.10  2008/08/02 06:02:53  mitsuhide
+# Changed the directory names of qQ's and A's
+#
+# Revision 1.9  2008/08/02 05:03:25  mitsuhide
+# Changed the shebang line because this environment won't accept
+# ruby's -w option.
+#
+# Revision 1.8  2008/07/17 07:59:08  uemura
+# Added debug option.
+#
+# Revision 1.7  2008/07/17 07:56:34  uemura
+# Defined RegExp object.
+#
+# Revision 1.6  2008/07/17 07:47:20  uemura
+# Totally changed the spec.
+# Compare the last output of the committed with the latest modified files.
+#
+# Revision 1.5  2008/07/17 06:01:22  uemura
+# Compare output from modified script with the latest committed one.
+#
+# Revision 1.4  2008/07/17 05:41:30  uemura
+# Removed -w option from shebang line.
+#
+# Revision 1.3  2008/07/15 01:16:58  uemura
+# Changed the naming rule of question files.
+#
+# Revision 1.2  2008/05/30 03:09:43  uemura
+# Changed help message.
+#
+# Revision 1.1  2008/05/30 03:08:32  uemura
+# Initial revision
+#
+@
+
+
+1.11
+log
+@Totally changed the spec. Compare two latest files of each question.
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.10 2008/08/02 06:02:53 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d54 1
+d56 1
+a56 1
+  mod_file = q_name + "_1." + last + ".txt"
+d65 3
+@
+
+
+1.10
+log
+@Changed the directory names of qQ's and A's
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.9 2008/08/02 05:03:25 mitsuhide Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d29 8
+a36 1
+re = %r/([\w-]+_1\.)(\d+)/
+d38 2
+a39 6
+ref_minors = []
+Dir.glob("a/*.txt").sort.each{|ref_file|
+  next if ref_file =~ /_mod/
+  ref_file =~ re
+  minor = $2
+  ref_minors.push(minor.to_i)
+d41 1
+a41 1
+ref_minor = ref_minors.uniq.sort.last
+d43 7
+a49 9
+mod_files = Dir.glob("a/*_mod.txt").sort
+prefixes = []
+mod_minors = []
+mod_files.each{|mod_file|
+  mod_file =~ re
+  prefix = $1
+  minor = $2
+  prefixes.push(prefix)
+  mod_minors.push(minor.to_i)
+d51 5
+a55 5
+mod_minor = mod_minors.uniq.sort.last
+
+prefixes.uniq.sort.each{|prefix|
+  mod_file = prefix + mod_minor.to_s + "_mod.txt"
+  ref_file = prefix + ref_minor.to_s + ".txt"
+d64 3
+@
+
+
+1.9
+log
+@Changed the shebang line because this environment won't accept
+ruby's -w option.
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.8 2008/07/17 07:59:08 uemura Exp mitsuhide $ =~ /: (\S+),v (\S+)/
+d23 1
+a23 1
+  q_files = Dir.glob("q*.txt")
+d29 1
+a29 1
+re = %r/(a[\w-]+_1\.)(\d+)/
+d32 1
+a32 1
+Dir.glob("ans/a*.txt").sort.each{|ref_file|
+d40 1
+a40 1
+mod_files = Dir.glob("ans/a*_mod.txt").sort
+d56 1
+a56 1
+    print `ls   -q ans/#{ref_file} ans/#{mod_file}`
+d58 1
+a58 1
+    print `diff -q ans/#{ref_file} ans/#{mod_file}`
+d63 4
+@
+
+
+1.8
+log
+@Added debug option.
+@
+text
+@d1 1
+a1 1
+#! /bin/env ruby
+d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.7 2008/07/17 07:56:34 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d63 3
+@
+
+
+1.7
+log
+@Defined RegExp object.
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.6 2008/07/17 07:47:20 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d11 1
+d22 6
+a27 4
+q_files = Dir.glob("q*.txt")
+q_files.each{|q_file|
+  `./numplc.rb -d #{q_file}`
+}
+d55 5
+a59 2
+# print `ls   -q ans/#{ref_file} ans/#{mod_file}`
+  print `diff -q ans/#{ref_file} ans/#{mod_file}`
+d63 3
+@
+
+
+1.6
+log
+@Totally changed the spec.
+Compare the last output of the committed with the latest modified files.
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.5 2008/07/17 06:01:22 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d26 2
+d31 1
+a31 1
+  ref_file =~ /(a[\w-]+_1\.)(\d+)/
+d41 1
+a41 1
+  mod_file =~ /(a[\w-]+_1\.)(\d+)/
+d57 4
+@
+
+
+1.5
+log
+@Compare output from modified script with the latest committed one.
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.4 2008/07/17 05:41:30 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d26 14
+a39 5
+a_files = Dir.glob("ans/a*.txt").sort
+prefixes = Array.new
+minor_revs = Array.new
+a_files.each{|a_file|
+  a_file =~ /(a[\w-]+_1\.)(\d+)/
+d43 1
+a43 2
+  minor_rev = minor.to_i
+  minor_revs.push(minor_rev)
+d45 7
+a51 9
+minor_revs.uniq!.sort!
+latest = minor_revs.last
+prev   = minor_revs[-2]
+
+prefixes.uniq!.sort!
+prefixes.each{|prefix|
+  modified_file = prefix + latest.to_s + "_mod.txt"
+  original_file = prefix + latest.to_s + ".txt"
+  print `diff -q ans/#{original_file} ans/#{modified_file}`
+d55 3
+@
+
+
+1.4
+log
+@Removed -w option from shebang line.
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.3 2008/07/15 01:16:58 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d43 3
+a45 3
+  latest_file = prefix + latest.to_s + ".txt"
+  prev_file = prefix + prev.to_s + ".txt"
+  print `diff -q ans/#{prev_file} ans/#{latest_file}`
+d49 3
+@
+
+
+1.3
+log
+@Changed the naming rule of question files.
+@
+text
+@d1 1
+a1 1
+#! /bin/env ruby -w
+d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.2 2008/05/30 03:09:43 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d49 3
+@
+
+
+1.2
+log
+@Changed help message.
+@
+text
+@d3 1
+a3 1
+%q$Id: test_numplc.rb,v 1.1 2008/05/30 03:08:32 uemura Exp uemura $ =~ /: (\S+),v (\S+)/
+d26 1
+a26 1
+a_files = Dir.glob("ans/a*.txt")
+d30 5
+a34 3
+  a_file =~ /(a\w+_1\.)(\d+)/
+  prefixes.push($1)
+  minor_rev = $2.to_i
+d49 3
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+a3 1
+%q$Id$ =~ /: (\S+),v (\S+)/
+d14 3
+a16 3
+  puts "Usage: ", ProgName, " [-h]\n"
+  puts "Revision: ", Revision, "\n"
+  puts "Check if 'numplc.rb' regresses or not."
+d46 4
+a49 1
+# $Log$
+@
